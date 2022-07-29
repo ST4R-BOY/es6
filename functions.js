@@ -18,7 +18,7 @@ import hr from "human-readable";
 import util from "util"
 import PN from "awesome-phonenumber"
 export default Message;
-export let owner = ["628812904283@s.whatsapp.net", "6281228108657@s.whatsapp.net"] //,"62882008702120@s.whatsapp.net"];
+export let owner = ["6283826125112@s.whatsapp.net", "62895405131177@s.whatsapp.net"] //,"6283826125112@s.whatsapp.net"];
 export let map = new Map();
 export let set = new Set();
 let anonymous = {}
